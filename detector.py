@@ -42,7 +42,7 @@ def include_template2(template_name):
         return template.read()
 
 
-HOLA
+HOLAasdadasdasd
 
 # Ejemplos de uso 22222dddddddddddddddddd
 # Ejemplos de usossssssssssssssssdadsasdasdasdasd
