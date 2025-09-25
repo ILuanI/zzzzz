@@ -34,5 +34,5 @@ def include_template(template_name):
 
 
 
-
+# Ejemplos de uso 2
 # Ejemplos de uso
