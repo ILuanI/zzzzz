@@ -40,9 +40,3 @@ def include_template2(template_name):
     
     with open(template_path, 'r') as template:
         return template.read()
-
-
-HOLAasdadasdasdASASASASAS
-
-# Ejemplos de uso 22222dddddddddddddddddd
-# Ejemplos de usossssssssssssssssdadsasdasdasdasd
